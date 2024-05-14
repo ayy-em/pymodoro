@@ -1,0 +1,7 @@
+pillow==10.3.0
+# playsound @ git+https://github.com/taconi/playsound@92385c78ec05c2fc3afad1afc5edc9d1282aa1e5
+playsound==1.3.0
+pystray==0.19.5
+six==1.16.0
+wheel==0.43.0
+screeninfo==0.8.1
